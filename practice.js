@@ -42,7 +42,7 @@ if(count == 0){
 function greet(user,user2){
     return `raj${user},${user2}`
 }
-let user = 'kumar'
+let user = 'naveen'
 let user2 ='ganesh'
 let str = greet(user,user2);
 console.log(str);
