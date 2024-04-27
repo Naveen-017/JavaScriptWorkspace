@@ -15,5 +15,5 @@
 
 
 let add = (num1,num2) => num1 + num2;
-let res = add(5,6);
-console.log(res);
+let result = add(5,6);
+console.log(result);
