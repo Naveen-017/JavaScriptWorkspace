@@ -46,3 +46,19 @@ let user = 'naveen'
 let user2 ='ganesh'
 let str = greet(user,user2);
 console.log(str);
+
+function add(a,b)
+{
+    return (a+b);
+}
+console.log(add(5,8))
+
+console.log(88<<2)
+
+const biggestNum = Number.MAX_VALUE;
+console.log(biggestNum)
+
+const xmass = new Date("2001-4-26");
+console.log(xmass.getFullYear());
+
+console.log("\u00A9")
